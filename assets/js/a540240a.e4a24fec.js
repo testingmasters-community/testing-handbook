@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktesting_handbook=self.webpackChunktesting_handbook||[]).push([[6534],{7082:a=>{a.exports=JSON.parse('{"label":"facebook","permalink":"/testing-handbook/blog/tags/facebook","allTagsPath":"/testing-handbook/blog/tags","count":1,"unlisted":false}')}}]);
